@@ -1,7 +1,7 @@
-package Arthematiccalculator;
+package Assignment1;
 
 import java.util.Scanner;
-public class Arthematiccalculatorprogram {
+public class ArithmeticCalculator {
 
 	public static void main(String[] args) {
 		double num1, num2;
